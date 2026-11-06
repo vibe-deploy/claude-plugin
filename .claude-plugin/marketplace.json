@@ -1,0 +1,13 @@
+{
+  "name": "flitzy",
+  "owner": { "name": "Flitzy", "url": "https://flitzy.app" },
+  "metadata": { "description": "Deploy apps to Flitzy from Claude Code" },
+  "plugins": [
+    {
+      "name": "flitzy",
+      "source": "./flitzy",
+      "description": "Deploy and manage apps on Flitzy: the Flitzy MCP server (sign-in with Flitzy) and a deploy skill.",
+      "homepage": "https://docs.flitzy.app/reference/mcp/"
+    }
+  ]
+}

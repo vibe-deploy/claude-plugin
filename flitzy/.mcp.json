@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "flitzy": { "type": "http", "url": "https://mcp.flitzy.app/mcp" }
+  }
+}

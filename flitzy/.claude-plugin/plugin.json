@@ -1,0 +1,8 @@
+{
+  "name": "flitzy",
+  "version": "0.14.0",
+  "description": "Deploy and manage apps on Flitzy (https://<name>.flitzy.app): the hosted Flitzy MCP server and a deploy skill.",
+  "author": { "name": "Flitzy", "url": "https://flitzy.app" },
+  "homepage": "https://docs.flitzy.app/reference/mcp/",
+  "keywords": ["deploy", "hosting", "paas"]
+}
